@@ -1,3 +1,9 @@
+'''
+Developed by: Zaahier Adams
+https://github.com/ZaahierAdams
+'''
+
+
 ## VPN
 import requests
 from stem import Signal
